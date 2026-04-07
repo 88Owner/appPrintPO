@@ -1,5 +1,7 @@
 # AppPrintPO
 
+File Excel (đúng thứ tự cột không bắt buộc, chỉ cần đủ tên cột): **Mã đơn**, **Sku**, **Số lượng**, **Mẫu**, **Loại**, **Ngang**, **Cao**. Trên PDF, cột *Tên sản phẩm* hiển thị dạng **Loại - Ngang x Cao - Mẫu**. Khổ in **12×18 cm** (tăng 20 % so với 10×15 cm).
+
 ## Cài đặt chạy từ mã nguồn
 
 1. Cài **Python 3.10+** (Windows thường đã có Tkinter).
